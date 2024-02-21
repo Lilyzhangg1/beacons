@@ -18,8 +18,11 @@ Create Group/Add Friend: Facilitates building community ties, enabling users to 
 In constructing Beacons, we used a cohesive tech stack that reflects our commitment to responsible innovation. This included:
 
 **Frontend:** Utilizing React Native for a universally accessible, cross-platform user interface compatible with devices of all builds/sizes.
-Backend: Node.js with Express, ensuring efficient processes and ethical data handling, easily integrateable with our frontend.
+
+**Backend:** Node.js with Express, ensuring efficient processes and ethical data handling, easily integrateable with our frontend.
+
 **Database:** MongoDB, chosen for its flexibility and scalability, aligns with our sustainable development goals and can easily be controlled through our Node.js backend.
+
 **APIs:** Implementing Apple Maps for its commitment to privacy and environmental sustainability in location-based services with easily implementable functions.
 
 ## **Challenges we ran into ⏰**
