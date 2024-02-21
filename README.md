@@ -7,29 +7,29 @@ In an era where digital platforms are omnipresent, the challenge of fostering ge
 ## **What it does 👭👬**
 Beacons is a pioneering app crafted to redefine the planning landscape, ensuring ease of communication and organization for events of all scales while adhering to ethical digital practices. It emerges as a beacon of responsible technology, providing:
 
-**Login Page:** Secure entry to a personalized planning hub, emphasizing data protection and privacy.
+***Login Page:*** Secure entry to a personalized planning hub, emphasizing data protection and privacy.
 
-**Feed:** An updated view of invites with an intuitive response mechanism, promoting digital wellness by reducing clutter and enhancing focus.
+***Feed:*** An updated view of invites with an intuitive response mechanism, promoting digital wellness by reducing clutter and enhancing focus.
 
-**Map:** A sustainable approach to event planning, featuring eco-friendly suggestions and local event highlights to minimize environmental impact.
+***Map:*** A sustainable approach to event planning, featuring eco-friendly suggestions and local event highlights to minimize environmental impact.
 
-**Create Event:** A feature that encourages community engagement and inclusivity, allowing for the easy organization of gatherings that cater to diverse interests and needs.
+***Create Event:*** A feature that encourages community engagement and inclusivity, allowing for the easy organization of gatherings that cater to diverse interests and needs.
 
-**Profile Area:** A space for users to express their preferences and manage settings, ensuring a tailored and responsible user experience.
+***Profile Area:*** A space for users to express their preferences and manage settings, ensuring a tailored and responsible user experience.
 
-**Create Group/Add Friend:** Facilitates building community ties, enabling users to forge and nurture connections based on shared interests and activities that brings people together in our digital age
+***Create Group/Add Friend:*** Facilitates building community ties, enabling users to forge and nurture connections based on shared interests and activities that brings people together in our digital age
 
 
 ## **How we built it ⌨️**
 In constructing Beacons, we used a cohesive tech stack that reflects our commitment to responsible innovation. This included:
 
-**Frontend:** Utilizing React Native for a universally accessible, cross-platform user interface compatible with devices of all builds/sizes.
+***Frontend:*** Utilizing React Native for a universally accessible, cross-platform user interface compatible with devices of all builds/sizes.
 
-**Backend:** Node.js with Express, ensuring efficient processes and ethical data handling, easily integrateable with our frontend.
+***Backend:*** Node.js with Express, ensuring efficient processes and ethical data handling, easily integrateable with our frontend.
 
-**Database:** MongoDB, chosen for its flexibility and scalability, aligns with our sustainable development goals and can easily be controlled through our Node.js backend.
+***Database:*** MongoDB, chosen for its flexibility and scalability, aligns with our sustainable development goals and can easily be controlled through our Node.js backend.
 
-**APIs:** Implementing Apple Maps for its commitment to privacy and environmental sustainability in location-based services with easily implementable functions.
+***APIs:*** Implementing Apple Maps for its commitment to privacy and environmental sustainability in location-based services with easily implementable functions.
 
 ## **Challenges we ran into ⏰**
 Throughout our experience building Beacons, we faced and overcame a variety of obstacles. To start with, in order to fulfill the theme of building a socially responsible platform, we had to factor in ethical considerations in every aspect of Beacons. From seamless map functionalities with an eco-friendly focus along with complex encryption and data security techniques at all levels, we went the extra mile to ensure our app aligned with our standards of digital wellbeing. An additional challenge we faced was within our user authentication protocol, which we initially planned to do with Auth0. However, Auth0 and Expo, the platform we used to develop our React Native app, were incompatible with a variety of documented issues. Our alternative plan, which involved Firebase, also faced similar challenges, leading us to develop our own authentication and authorization system from scratch. We also made many small mistakes in terms of file names and API routes, which meant that we had to spend time documenting many details within the backend and frontend, taking more time than it should have. All in all, these obstacles were a learning opportunity that allowed us all to become more professional and experienced programmers.
