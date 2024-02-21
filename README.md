@@ -8,11 +8,17 @@ In an era where digital platforms are omnipresent, the challenge of fostering ge
 Beacons is a pioneering app crafted to redefine the planning landscape, ensuring ease of communication and organization for events of all scales while adhering to ethical digital practices. It emerges as a beacon of responsible technology, providing:
 
 **Login Page:** Secure entry to a personalized planning hub, emphasizing data protection and privacy.
+
 **Feed:** An updated view of invites with an intuitive response mechanism, promoting digital wellness by reducing clutter and enhancing focus.
+
 **Map:** A sustainable approach to event planning, featuring eco-friendly suggestions and local event highlights to minimize environmental impact.
+
 **Create Event:** A feature that encourages community engagement and inclusivity, allowing for the easy organization of gatherings that cater to diverse interests and needs.
+
 **Profile Area:** A space for users to express their preferences and manage settings, ensuring a tailored and responsible user experience.
-Create Group/Add Friend: Facilitates building community ties, enabling users to forge and nurture connections based on shared interests and activities that brings people together in our digital age
+
+**Create Group/Add Friend:** Facilitates building community ties, enabling users to forge and nurture connections based on shared interests and activities that brings people together in our digital age
+
 
 ## **How we built it ⌨️**
 In constructing Beacons, we used a cohesive tech stack that reflects our commitment to responsible innovation. This included:
