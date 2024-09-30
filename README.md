@@ -1,6 +1,6 @@
 # Beacons🚨
 Where planning meets purpose. Our app champions privacy, inclusivity, and eco-consciousness, transforming each event into a stride towards a more sustainable, interconnected community.
-[Watch the demo!](https://www.youtube.com/watch?v=PSN2wXYoQx8)
+[Watch the demo here!](https://www.youtube.com/watch?v=PSN2wXYoQx8)
 
 
 ## **Inspiration 📍**
