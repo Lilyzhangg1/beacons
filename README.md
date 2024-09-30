@@ -1,5 +1,7 @@
 # Beacons🚨
 Where planning meets purpose. Our app champions privacy, inclusivity, and eco-consciousness, transforming each event into a stride towards a more sustainable, interconnected community.
+[Watch the demo!](https://www.youtube.com/watch?v=PSN2wXYoQx8)
+
 
 ## **Inspiration 📍**
 In an era where digital platforms are omnipresent, the challenge of fostering genuine connections while promoting ethical technology use has never been more pressing. The inspiration for "Beacons" came from our own experiences of struggling to coordinate plans and communicate effectively with groups. We recognized a void in digital solutions that not only streamline planning but do so with a focus on community, inclusivity, and sustainability. Our aim was to create an all-in-one solution that not only simplifies event coordination but also embodies the principles of socially responsible platforms, nurturing connections that extend beyond the digital realm. The inspiration for the name Beacons comes from the fact that a beacon is a light that brings people together and creates an opportunity for all to become a better version of themselves by working together. With this in mind, we built our app with the intention of it being a beacon for Beacons and allowing all these individual events to shine in one place.
